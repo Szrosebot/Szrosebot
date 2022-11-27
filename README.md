@@ -10,4 +10,14 @@
 | Language | Telugu |
 | Nationality | Indian |
 | Skills Known | python, html, css, msword, excel, ppt |
-| Telgram Group | [Yumiko](t.me/yumiko_supporters) |
+| Telegram Group | [Yumiko](t.me/yumiko_supporters) |
+<hr>
+<b><u>SKILLS</u></b>
+
+| Skill | percentage |
+| ---- | ---- |
+| Python | 79% |
+| html | 100% |
+| Css | 97% |
+| java script | current learning |
+
